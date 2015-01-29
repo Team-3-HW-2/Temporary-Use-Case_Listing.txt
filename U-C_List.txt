@@ -15,13 +15,13 @@ Level Up                          // (Group 1, 2, 3)      // Ronnie Rodriguez
 [[Change Active Combat State]]    // (Group 2)            //
 Attack                            // (Group 2, 3)         // Zachary Yama
 Use an Item                       // (Group 2, 3)         // Brett Menzies
-Move through an Area              // (Group 2, 3)         // E
+Move through an Area              // (Group 2, 3)         // Elizabeth Hernandez
 Increase Stats                    // (Group 2, 3)         // Combine this with Level Up use case? - Ronnie
 Equip an Item                     // (Group 2, 3)         // Brett Menzies
 Change Current Weapon             // (Group 2, 3)         // Zachary Yama
 Select an Item from Inventory     // (Group 2, 3)         //
 Move an Item in the Inventory     // (Group 2, 3)         // Ronnie Rodriguez
-Pick Up Items                     // (Group 2, 3)         // E
+Pick Up Items                     // (Group 2, 3)         // Elizabeth Hernandez
 Sell Items                        // (Group 2, 3)         //
 Buy Items                         // (Group 2, 3)         //
 Open and Close the Inventory      // (Group 2, 3)         //
@@ -36,7 +36,7 @@ Die                               // (Group 3)            // Michael Mueller
 Leave a Dungeon                   // (Group 3)            //
 Close the Game                    // (Group 3)            //
 Look at Stats                     // (Group 3)            //
-Look at Map                       // (Group 3)            // E
+Look at Map                       // (Group 3)            // Elizabeth Hernandez
 ------------------------------------------------------------------------------------------
 NOTE: I didn't see any clear use-case statements from Group 4, so they are not included 
 here
