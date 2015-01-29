@@ -11,7 +11,7 @@ Save the Game                     // (Group 1)            //
 [[Select a Class/Race]]           // (Group 1)            //
 Complete a task/quest             // (Group 1)            //
 Enter the Game                    // (Group 1, 3)         //
-Level Up                          // (Group 1, 2, 3)      //
+Level Up                          // (Group 1, 2, 3)      // Ronnie Rodriguez
 [[Change Active Combat State]]    // (Group 2)            //
 Attack                            // (Group 2, 3)         //
 Use an Item                       // (Group 2, 3)         //
@@ -20,10 +20,10 @@ Increase Stats                    // (Group 2, 3)         // Combine this with L
 Equip an Item                     // (Group 2, 3)         //
 Change Current Weapon             // (Group 2, 3)         //
 Select an Item from Inventory     // (Group 2, 3)         //
-Move an Item in the Inventory     // (Group 2, 3)         //
+Move an Item in the Inventory     // (Group 2, 3)         // Ronnie Rodriguez
 Pick Up Items                     // (Group 2, 3)         //
 Sell Items                        // (Group 2, 3)         //
-Buy Items                         // (Group 2, 3)         //
+Buy Items                         // (Group 2, 3)         // Ronnie Rodriguez
 Open and Close the Inventory      // (Group 2, 3)         //
 [[Craft Items]]                   // (Group 3)            //
 Dialog                            // (Group 3)            //
