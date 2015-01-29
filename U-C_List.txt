@@ -23,7 +23,7 @@ Select an Item from Inventory     // (Group 2, 3)         //
 Move an Item in the Inventory     // (Group 2, 3)         // Ronnie Rodriguez
 Pick Up Items                     // (Group 2, 3)         //
 Sell Items                        // (Group 2, 3)         //
-Buy Items                         // (Group 2, 3)         // Ronnie Rodriguez
+Buy Items                         // (Group 2, 3)         //
 Open and Close the Inventory      // (Group 2, 3)         //
 [[Craft Items]]                   // (Group 3)            //
 Dialog                            // (Group 3)            //
