@@ -1,0 +1,36 @@
+# U-C_List
+Repository of the Use-Case Assignments
+
+Please, feel free to put your initials next to any of the 
+following to indicate that you would like to write that 
+Use-Case statement.
+
+//WILL BE UPDATED/CHANGED - NOT READY FOR USE-CASE CLAIMS JUST YET//
+
+(1)   Crafting Items                    //
+(2)   Dialog                            //
+(3)   Opening and Closing Inventory     //
+(4)   Starting Game                     //
+(5)   Reload Weapon                     //
+(6)   Start Dungeon                     //
+(6)   Attacking                         //
+(8)   Opening Doors                     //
+(9)   Killing an Enemy                  //
+(10)  Using Keys and Codes              //
+(11)  Taking Damage                     //
+(12)  Moving Items in Inventory         //
+(13)  Moving through Areas              //
+(14)  Selling Items                     //
+(15)  Buying Items                      //
+(15)  Picking Up Items                  //
+(16)  Die                               //
+(17)  Leave a Dungeon                   //
+(18)  Use an Item                       //
+(19)  Change Current Weapon             //
+(20)  Close the Game                    //
+(21)  Select an Item from Inventory     //
+(22)  Level Up                          //
+(23)  Increase Stats                    //
+(24)  Equip an Item                     //
+(25)  Look at Stats                     //
+(26)  Look at Map                       //
