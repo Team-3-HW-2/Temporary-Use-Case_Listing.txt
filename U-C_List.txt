@@ -14,10 +14,10 @@ Enter the Game                    // (Group 1, 3)         //
 Level Up                          // (Group 1, 2, 3)      // Ronnie Rodriguez
 [[Change Active Combat State]]    // (Group 2)            //
 Attack                            // (Group 2, 3)         //
-Use an Item                       // (Group 2, 3)         //
+Use an Item                       // (Group 2, 3)         // Brett Menzies
 Move through an Area              // (Group 2, 3)         //
 Increase Stats                    // (Group 2, 3)         // Combine this with Level Up use case? - Ronnie
-Equip an Item                     // (Group 2, 3)         //
+Equip an Item                     // (Group 2, 3)         // Brett Menzies
 Change Current Weapon             // (Group 2, 3)         //
 Select an Item from Inventory     // (Group 2, 3)         //
 Move an Item in the Inventory     // (Group 2, 3)         // Ronnie Rodriguez
