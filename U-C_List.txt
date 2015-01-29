@@ -22,7 +22,7 @@ Change Current Weapon             // (Group 2, 3)         // Zachary Yama
 Select an Item from Inventory     // (Group 2, 3)         //
 Move an Item in the Inventory     // (Group 2, 3)         // Ronnie Rodriguez
 Pick Up Items                     // (Group 2, 3)         // Elizabeth Hernandez
-Sell Items                        // (Group 2, 3)         //
+Sell Items                        // (Group 2, 3)         // Jordan Lynn
 Buy Items                         // (Group 2, 3)         //
 Open and Close the Inventory      // (Group 2, 3)         //
 [[Craft Items]]                   // (Group 3)            //
@@ -34,7 +34,7 @@ Kill an Enemy                     // (Group 3)            // Michael Mueller
 Take Damage                       // (Group 3)            // 
 Die                               // (Group 3)            // Michael Mueller
 Leave a Dungeon                   // (Group 3)            //
-Close the Game                    // (Group 3)            //
+Close the Game                    // (Group 3)            // Jordan Lynn
 Look at Stats                     // (Group 3)            //
 Look at Map                       // (Group 3)            // Elizabeth Hernandez
 ------------------------------------------------------------------------------------------
