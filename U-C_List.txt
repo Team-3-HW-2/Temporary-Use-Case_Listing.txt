@@ -16,7 +16,7 @@ Level Up                          // (Group 1, 2, 3)      // Ronnie Rodriguez
 Attack                            // (Group 2, 3)         // Zachary Yama
 Use an Item                       // (Group 2, 3)         // Brett Menzies
 Move through an Area              // (Group 2, 3)         // Elizabeth Hernandez
-Increase Stats                    // (Group 2, 3)         // Combine this with Level Up use case? - Ronnie
+Increase Stats                    // (Group 2, 3)         // Ronnie Rodriguez
 Equip an Item                     // (Group 2, 3)         // Brett Menzies
 Change Current Weapon             // (Group 2, 3)         // Zachary Yama
 Select an Item from Inventory     // (Group 2, 3)         // Jared Zook
