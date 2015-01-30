@@ -31,7 +31,7 @@ Reload Weapon                     // (Group 3)            // Kurt Blasdell
 Start Dungeon                     // (Group 3)            // Lance Wells
 Open Doors (w/ or w/o keys/codes) // (Group 3)            //
 Kill an Enemy                     // (Group 3)            // Michael Mueller
-Take Damage                       // (Group 3)            // 
+Take Damage                       // (Group 3)            // Zachary Yama
 Die                               // (Group 3)            // Michael Mueller
 Leave a Dungeon                   // (Group 3)            // Lance Wells
 Close the Game                    // (Group 3)            // Jordan Lynn
