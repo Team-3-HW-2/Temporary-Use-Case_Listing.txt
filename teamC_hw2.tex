@@ -14,7 +14,51 @@
 \begin{document}
     \maketitle
 
+\pagebreak
 
+\section{Equip an Item - Brett Menzies}
 
+\textbf{Actors:} \hfil \\ \indent Player \\
+\textbf{Preconditions:} \hfil \\ \indent Play has an equitable item, and the necessary skill to use the item \\
+\textbf{Summary:} \hfil \\ \indent The Player equips an item, changing their stats appropriately \\
+\textbf{Terminates:} \hfil \\ \indent When item is equipped or returned to inventory \\
+\textbf{Related use cases:} \hfil \\ \indent Select an Item from Inventory \\
+\textbf{Steps:}
+
+\begin{enumerate}
+	\item The user Selects an Item from Inventory
+	\item The user clicks on an equipment slot on their equipment display.
+	\item The system checks if the active item is equitable in that location and the user has the necessary skill.
+	\begin{itemize}
+		\item If valid: system equips the active item to character and recalculates player stats,
+			transporting previously equipped items to inventory if necessary.
+		\item If invalid: system prints message in dialog box explaining what conditions failed.
+	\end{itemize}
+	\item Alternative: The user right-clicks anywhere, deactivating and returning the item to its previous location.
+\end{enumerate} 
+
+\hfil \linebreak
+
+\section{Use an Item - Brett Menzies}
+
+\textbf{Actors:} \hfil \\ \indent Player \\
+\textbf{Preconditions:} \hfil \\ \indent Player has usable item in inventory, valid target, and necessary skill \\
+\textbf{Summary:} \hfil \\ \indent The Player uses his/her skill to use an item on a target \\
+\textbf{Terminates:} \hfil \\ \indent After item is consumed or returned to inventory \\
+\textbf{Related use cases:} \hfil \\ \indent Select an Item from Inventory \\
+\textbf{Steps:}
+
+\begin{enumerate}
+	\item The user Selects an Item from Inventory
+	\item The user clicks on a target map tile.
+	\item The system checks if the target is valid and the user has the necessary skill to use the active item.
+	\begin{itemize}
+		\item If valid: system applies items effects to target; item is consumed.
+		\item If invalid:  system prints message in dialog box explaining what conditions failed.
+	\end{itemize}
+	\item Alternative: The user right-clicks anywhere, deactivating and returning the item to its previous location.
+\end{enumerate} 
+
+\hfil \linebreak
 
 \end{document}
