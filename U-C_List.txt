@@ -6,6 +6,7 @@
 ------------------------------------------------------------------------------------------
 Mode Selection                    // (Group 1)            //
 Save the Game                     // (Group 1)            // Jared Zook
+Load the Game                     // (Group \0)           // Jared Zook
 [[Change Standing]]               // (Group 1)            //
 [[Assist in Combat]]              // (Group 1)            //
 [[Select a Class/Race]]           // (Group 1)            //
