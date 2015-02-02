@@ -26,11 +26,11 @@ Pick Up Items                     // (Group 2, 3)         // Elizabeth Hernandez
 Sell Items                        // (Group 2, 3)         // Jordan Lynn
 Buy Items                         // (Group 2, 3)         // Lance Wells
 Open and Close the Inventory      // (Group 2, 3)         // Kurt Blasdell
-[[Craft Items]]                   // (Group 3)            //
+[[Craft Items]]                   // (Group 3)            // Morgan Holbart
 Dialog                            // (Group 3)            // Lance Wells
 Reload Weapon                     // (Group 3)            // Kurt Blasdell
 Start Dungeon                     // (Group 3)            // Lance Wells
-Open Doors (w/ or w/o keys/codes) // (Group 3)            //
+Open Doors (w/ or w/o keys/codes) // (Group 3)            // Morgan Holbart
 Kill an Enemy                     // (Group 3)            // Michael Mueller
 Take Damage                       // (Group 3)            // Zachary Yama
 Die                               // (Group 3)            // Michael Mueller
